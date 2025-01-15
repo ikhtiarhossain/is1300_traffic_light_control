@@ -1,0 +1,5 @@
+../Core/Src/test.c:11:6:test_program	16	static
+../Core/Src/test.c:28:6:test_led	16	static
+../Core/Src/test.c:35:6:test_pl_switch	16	static
+../Core/Src/test.c:43:6:test_tl_switch	16	static
+../Core/Src/test.c:51:6:test_both_toggle	24	static
